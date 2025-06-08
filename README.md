@@ -18,6 +18,9 @@ This project is a graphical implementation of the classic **Tic-Tac-Toe (XOX)** 
 
 ![image](https://github.com/user-attachments/assets/b11ee799-99a4-46a1-9669-1f3489043e0d)
 
+![image](https://github.com/user-attachments/assets/16428782-c8f8-469f-a006-ed0ba267f320)
+
+
 
 ## 🚀 How to Run
 
